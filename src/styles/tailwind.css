@@ -1,0 +1,13 @@
+/* Tailwind base, components, utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import tw-animate-css animations */
+@import 'tw-animate-css';
+
+/* Optional: your custom styles */
+body {
+  margin: 0;
+  font-family:Consolas, 'Courier New', monospace;
+}
